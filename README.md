@@ -1,5 +1,7 @@
 # AI Finance Buddy 💰
 
+here is a website link :- https://github.com/Jayesh-k-03/ai-finance-buddy
+
 A modern Streamlit web app for financial data analysis with AI-powered insights.
 
 ## Features
